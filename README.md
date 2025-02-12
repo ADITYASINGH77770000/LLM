@@ -1,6 +1,7 @@
 # 🔥 LLM Mastery: Open & Closed-Source Models  
 
-![llm](https://github.com/user-attachments/assets/b3bd459d-8613-4265-a867-9c357de6d073)
+!![LLM_1](https://github.com/user-attachments/assets/086d967f-9bcf-4e36-9958-9cd50de7be1a)
+
 
 
 Welcome to **LLM Mastery**, a comprehensive repository covering **Open-Source** and **Closed-Source** Large Language Models (LLMs). This repository includes my learning, experiments, and implementations with **Hugging Face, OpenAI, Gemini, LLaMA, RAG (Retrieval-Augmented Generation), Fine-Tuning, Gradio, LangChain**, and more! 🚀  
